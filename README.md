@@ -19,4 +19,6 @@
     <img src="https://komarev.com/ghpvc/?username=favorusyre&style=flat-square&color=blue" alt=""/>
     <h4>My GitHub stats:</h4>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=alecande11&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?favoursyre&theme=dark&background=000000)](https://git.io/streak-stats)
+    <h4>Languages:</h4>
 </div>
