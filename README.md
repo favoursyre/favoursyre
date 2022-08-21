@@ -6,9 +6,6 @@
         <a href="https://twitter.com/favoursyre?s=09">
           <img src="./img/twitter.png" alt="Twitter" width="40px" />
         </a>
-        <a href="favourndubuisi.official@gmail.com">
-          <img src="./img/mail.png" alt="Email" width="40px" />
-        </a>
         <a href="https://favourndubuisi.herokuapp.com">
           <img src="./img/web.png" alt="Website" width="40px" />
         </a>
