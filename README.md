@@ -22,4 +22,4 @@
     
     <h4>Languages:</h4>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?favoursyre&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?favoursyre&theme=dark&background=000000)(https://git.io/streak-stats)
