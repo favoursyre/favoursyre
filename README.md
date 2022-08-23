@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./img/profile.jpg" width="120" boreder>
     <h3>Ndubuisi Favour</h3>
-    <p>Blockchain Engineer</p>
+    <p>Blockchain Engineer & Pentester</p>
     <div align="center">
         <a href="https://twitter.com/favoursyre?s=09">
           <img src="./img/twitter.png" alt="Twitter" width="40px" />
