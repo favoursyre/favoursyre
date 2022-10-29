@@ -10,7 +10,7 @@
           <img src="./img/web.png" alt="Website" width="40px" />
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=favorusyre&style=flat-square&color=blue" alt=""/>
+   <!-- <img src="https://komarev.com/ghpvc/?username=favorusyre&style=flat-square&color=blue" alt=""/> -->
 </div>
 
 ---
