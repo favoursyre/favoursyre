@@ -6,9 +6,6 @@
         <a href="https://twitter.com/favoursyre?s=09">
           <img src="./img/twitter.png" alt="Twitter" width="40px" />
         </a>
-        <a href="https://favourndubuisi.herokuapp.com">
-          <img src="./img/web.png" alt="Website" width="40px" />
-        </a>
     </div>
    <!-- <img src="https://komarev.com/ghpvc/?username=favorusyre&style=flat-square&color=blue" alt=""/> -->
 </div>
